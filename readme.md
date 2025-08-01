@@ -87,25 +87,22 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ## 🖼️ Screenshots
 ### 🔹 Setting up..
-![Setup & preview image](setup.jpg)
+![Setup & preview image](setup.png)
 ### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
+![Agent Instructions](agent_instructions.png)
 ### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
+![quick_start_questions](quick_start_questions.png)
 ### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
+![Tool Used & Testing](tool_testing.png)
 ### 🔹 Deployment & Preview...
-![Deployment & Testing](deployed.jpg)
+![Deployment & Testing](deployed.png)
 ### 🔹 API References after Deployment...
-![api _references](links.jpg)
-### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
+![api _references](links.png)
+
 
 ---
 
-## Recordings(watch to build on your own)
-▶️ [Building](https://youtu.be/oanWlnqpiP4)
-▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
+
 
 ---
 
@@ -148,9 +145,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-pandala-243914229/)
+🔗 [Connect with me on LinkedIn](www.linkedin.com/in/s-d-rohith-b31052296)
 
 ---
 
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
+> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Rohith S D**
 
