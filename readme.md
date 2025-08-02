@@ -99,6 +99,9 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 ### 🔹 API References after Deployment...
 ![api _references](links.png)
 
+### 🔹 Resources List...
+![resourses_list.jpg](resourses_list.png)
+
 
 ---
 
@@ -150,4 +153,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Rohith S D**
+
 
