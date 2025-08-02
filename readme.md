@@ -148,10 +148,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](www.linkedin.com/in/s-d-rohith-b31052296)
+## [Connect with me on LinkedIn]
+
+www.linkedin.com/in/s-d-rohith-b31052296
 
 ---
 
 > Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Rohith S D**
+
 
 
