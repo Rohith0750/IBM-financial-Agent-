@@ -44,14 +44,14 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ## 👥 End Users
 
-- General public seeking financial clarity  
-- Rural and semi-urban citizens  
-- Students and young professionals  
-- First-time UPI and digital banking users  
-- NGOs and government outreach programs  
-- Customer service centers
-- Self-Help Groups / Women’s Collectives
-- Educators / Institutions
+- General public seeking financial clarity.  
+- Rural and semi-urban citizens.  
+- Students and young professionals.  
+- First-time UPI and digital banking users.  
+- NGOs and government outreach programs.
+- Customer service centers.
+- Self-Help Groups / Women’s Collectives.
+- Educators / Institutions.
 
 ---
 
@@ -155,6 +155,7 @@ www.linkedin.com/in/s-d-rohith-b31052296
 ---
 
 > Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Rohith S D**
+
 
 
 
